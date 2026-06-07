@@ -37,3 +37,4 @@ Ailu.sk je webová aplikácia na podporu výučby umelej inteligencie, informati
 ## Poznámka
 
 Tento repozitár slúži ako verejná prezentácia projektu. Zdrojový kód hlavnej aplikácie je uložený v súkromnom repozitári.
+Aplikácia je momentálne vo fáze vývoja.
