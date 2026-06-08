@@ -1,18 +1,19 @@
 # Ailu.sk
 
+Ailu.sk je webová aplikácia na podporu výučby umelej inteligencie, informatiky a digitálnej gramotnosti na základných školách.
+
 Status: Projekt je momentálne vo vývoji. Tento repozitár slúži ako ukážka dizajnu, funkcionality a smerovania aplikácie.
 
-Ailu.sk je webová aplikácia na podporu výučby umelej inteligencie, informatiky a digitálnej gramotnosti na základných školách.
 
 ## Ukážky aplikácie
 
 ### Landing page
 
-![Landing page](ailu-landing-page.png)
+![Hero sekcia](ailu-hero.png)
 
 ### Hero sekcia
 
-![Hero sekcia](ailu-hero.png)
+![Landing page](ailu-landing-page.png)
 
 ### Žiacky dashboard
 
